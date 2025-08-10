@@ -7,4 +7,9 @@ int main(){
         printf("%d\n",i);
         i++;
     } while (i<=5);
+
+    printf ("hello world\n");
+    
+    return 0;
 }
+
