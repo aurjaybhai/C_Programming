@@ -17,3 +17,4 @@ int main() {
 int calculate() {
     return 42;
 }
+
